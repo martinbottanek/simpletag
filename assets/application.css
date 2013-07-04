@@ -84,7 +84,7 @@ footer p {
 /* h1 - zobrazuje názov aktuálnej stránky */
 
 h1 {
-  font-size: 20px;
+  font-size: 1.25em;
   color: #333333;
   background: #eee;
 	padding: 10px 15px;
@@ -97,7 +97,7 @@ h1 {
 /* h2 - zbrazuje konkrétne kroky */
 
 h2 {
-  font-size: 14px;
+  font-size: 1em;
   font-weight: 600;
   margin-left: 25px; }
 
